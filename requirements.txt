@@ -44,7 +44,7 @@ tomli==1.2.2
     #   pep517
 typing-extensions==3.10.0.2
     # via black
-wheel==0.37.0
+wheel==0.38.1
     # via pip-tools
 
 # The following packages are considered to be unsafe in a requirements file:
